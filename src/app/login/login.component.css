@@ -1,0 +1,11 @@
+.viewheight{
+    min-height: 50vh;
+}
+.login{
+    text-align: center;
+    margin-top: 2%;
+    padding: 20px;
+    border: solid black 2px;
+    width: 50%;
+
+}

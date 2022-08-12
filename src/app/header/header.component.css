@@ -1,0 +1,14 @@
+ul{
+list-style: none;
+display: flex;
+flex-direction: row;
+}
+li{
+    padding: 10px;
+}
+a{
+    text-decoration: none;
+}
+.header{
+    background-color: greenyellow;
+}
