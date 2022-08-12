@@ -2,10 +2,12 @@
     min-height: 50vh;
 }
 .login{
-    text-align: center;
-    margin-top: 2%;
-    padding: 20px;
-    border: solid black 2px;
-    width: 50%;
 
+    border: solid black 1px;
+    width: 40%;
+    padding: 60px;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 5%;
+    background-color: lightcyan;
 }

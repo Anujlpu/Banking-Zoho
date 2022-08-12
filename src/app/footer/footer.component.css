@@ -3,7 +3,7 @@
     flex-direction: row;
     justify-content: space-between;
     margin-top: 60px;
-    background-image: linear-gradient(rgb(243, 196, 196),rgb(185, 185, 243));
+    background-color: rgb(186, 248, 248);
     color: rgb(43, 77, 77);
 }
 
